@@ -1,6 +1,10 @@
 EESchema Schematic File Version 4
+<<<<<<< HEAD
 LIBS:XMASTREE-cache
 EELAYER 26 0
+=======
+EELAYER 30 0
+>>>>>>> fa7ad1e9b928825a8956d4d99542bf816a301140
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -19,8 +23,13 @@ L Device:Battery_Cell BT1
 U 1 1 5D8F4EED
 P 1000 2050
 F 0 "BT1" H 1118 2146 50  0000 L CNN
+<<<<<<< HEAD
 F 1 "CR2032" H 1118 2055 50  0000 L CNN
 F 2 "XMAS footprints:C2032" V 1000 2110 50  0001 C CNN
+=======
+F 1 "3xAAA" H 1118 2055 50  0000 L CNN
+F 2 "" V 1000 2110 50  0001 C CNN
+>>>>>>> fa7ad1e9b928825a8956d4d99542bf816a301140
 F 3 "~" V 1000 2110 50  0001 C CNN
 	1    1000 2050
 	1    0    0    -1  
