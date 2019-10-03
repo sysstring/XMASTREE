@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:XMASTREE-cache
-EELAYER 30 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -422,4 +422,8 @@ $EndComp
 Connection ~ 1300 900 
 Wire Wire Line
 	1300 900  1550 900 
+Text Label 2050 900  0    50   ~ 0
+3V
+Text Label 1000 1850 1    50   ~ 0
+BTN_COM
 $EndSCHEMATC
