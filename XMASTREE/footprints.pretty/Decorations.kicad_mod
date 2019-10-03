@@ -1,4 +1,4 @@
-(module Decorations (layer F.Cu) (tedit 5D95CEA3)
+(module Decorations (layer F.Cu) (tedit 5D95EECD)
   (fp_text reference Ref** (at 3.4 25.8) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.15)))
   )
@@ -229,4 +229,9 @@
     (xy 4.717933 47.761166) (xy 6.511118 47.36874) (xy 8.300629 46.927174) (xy 10.0675 46.443256)
     (xy 10.44046 46.337932) (xy 10.755963 46.252394) (xy 11.009124 46.187848) (xy 11.195055 46.145497)
     (xy 11.308871 46.126546) (xy 11.34418 46.128569)) (layer F.Cu) (width 0.01))
+  (pad 1 smd circle (at 0 1.27) (size 1.524 1.524) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd circle (at 0 16.51) (size 1 1) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 2))
+  (pad 1 smd circle (at 0 31.75) (size 1 1) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd circle (at 0 49.53) (size 1 1) (layers F.Cu F.Paste F.Mask))
 )

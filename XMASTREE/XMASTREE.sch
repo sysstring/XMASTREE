@@ -1,10 +1,6 @@
 EESchema Schematic File Version 4
-<<<<<<< HEAD
 LIBS:XMASTREE-cache
-EELAYER 26 0
-=======
 EELAYER 30 0
->>>>>>> fa7ad1e9b928825a8956d4d99542bf816a301140
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -23,14 +19,9 @@ L Device:Battery_Cell BT1
 U 1 1 5D8F4EED
 P 1000 2050
 F 0 "BT1" H 1118 2146 50  0000 L CNN
-<<<<<<< HEAD
-F 1 "CR2032" H 1118 2055 50  0000 L CNN
-F 2 "XMAS footprints:C2032" V 1000 2110 50  0001 C CNN
-=======
-F 1 "3xAAA" H 1118 2055 50  0000 L CNN
-F 2 "" V 1000 2110 50  0001 C CNN
->>>>>>> fa7ad1e9b928825a8956d4d99542bf816a301140
-F 3 "~" V 1000 2110 50  0001 C CNN
+F 1 "~" H 1000 2050 50  0001 C CNN
+F 2 "XMAS:C2032" V 1000 2110 50  0001 C CNN
+F 3 "" H 1000 2050 50  0001 C CNN
 	1    1000 2050
 	1    0    0    -1  
 $EndComp
@@ -86,7 +77,7 @@ $EndComp
 Wire Wire Line
 	1000 900  1000 800 
 Wire Wire Line
-	1000 900  1550 900 
+	1000 900  1300 900 
 $Comp
 L Device:R R9
 U 1 1 5D8F6668
@@ -147,7 +138,7 @@ U 1 1 5D91DE8B
 P 1000 1300
 F 0 "SW1" V 1046 1112 50  0000 R CNN
 F 1 "SW_SPDT" H 955 1112 50  0000 R CNN
-F 2 "XMAS footprints:2.54mm_4x9mm_SPDT" H 1000 1300 50  0001 C CNN
+F 2 "XMAS:2.54mm_4x9mm_SPDT" H 1000 1300 50  0001 C CNN
 F 3 "" H 1000 1300 50  0001 C CNN
 	1    1000 1300
 	0    -1   -1   0   
@@ -288,7 +279,7 @@ F 3 "~" H 4600 1050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	5000 3200 2600 3200
+	5000 3200 4250 3200
 Connection ~ 2600 3200
 Wire Wire Line
 	3100 2000 3500 2000
@@ -403,4 +394,32 @@ Wire Wire Line
 Wire Wire Line
 	4250 2650 4250 2000
 Connection ~ 4250 2000
+$Comp
+L Connector:TestPoint TP2
+U 1 1 5D966AB7
+P 4250 3200
+F 0 "TP2" H 4308 3318 50  0000 L CNN
+F 1 "Back side decorations" H 3900 3400 50  0000 L CNN
+F 2 "XMAS:Decorations" H 4450 3200 50  0001 C CNN
+F 3 "~" H 4450 3200 50  0001 C CNN
+	1    4250 3200
+	1    0    0    -1  
+$EndComp
+Connection ~ 4250 3200
+Wire Wire Line
+	4250 3200 2600 3200
+$Comp
+L Connector:TestPoint TP1
+U 1 1 5D966FC0
+P 1300 900
+F 0 "TP1" H 1358 1018 50  0000 L CNN
+F 1 "Front side decoratoins" H 1250 1150 50  0000 L CNN
+F 2 "XMAS:Decorations" H 1500 900 50  0001 C CNN
+F 3 "~" H 1500 900 50  0001 C CNN
+	1    1300 900 
+	1    0    0    -1  
+$EndComp
+Connection ~ 1300 900 
+Wire Wire Line
+	1300 900  1550 900 
 $EndSCHEMATC
