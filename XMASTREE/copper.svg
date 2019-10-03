@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100.0mm"
+   height="100.0mm"
+   viewBox="0 0 100.0 100.0"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="copper.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path49"
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch"
+       height="8">
+      <path
+         id="path52"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path54"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path56"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+    <symbol
+       id="ISO_A4(P)_SHEET">
+      <path
+         id="path62"
+         style="stroke:#000000;fill:none"
+         d="M 0.000000,1122.519685 56.692913,1122.519685" />
+      <path
+         id="path64"
+         style="stroke:#000000;fill:none"
+         d="M 737.007874,1122.519685 793.700787,1122.519685" />
+      <path
+         id="path66"
+         style="stroke:#000000;fill:none"
+         d="M 75.590551,1084.724409 755.905512,1084.724409" />
+      <path
+         id="path68"
+         style="stroke:#000000;fill:none"
+         d="M 793.700787,1122.519685 793.700787,1065.826772" />
+      <path
+         id="path70"
+         style="stroke:#000000;fill:none"
+         d="M 793.700787,56.692913 793.700787,0.000000" />
+      <path
+         id="path72"
+         style="stroke:#000000;fill:none"
+         d="M 793.700787,0.000000 737.007874,0.000000" />
+      <path
+         id="path74"
+         style="stroke:#000000;fill:none"
+         d="M 56.692913,0.000000 0.000000,0.000000" />
+      <path
+         id="path76"
+         style="stroke:#000000;fill:none"
+         d="M 755.905512,37.795276 75.590551,37.795276" />
+      <path
+         id="path78"
+         style="stroke:#000000;fill:none"
+         d="M 0.000000,0.000000 0.000000,56.692913" />
+      <path
+         id="path80"
+         style="stroke:#000000;fill:none"
+         d="M 0.000000,1065.826772 0.000000,1122.519685" />
+      <path
+         id="path82"
+         style="stroke:#000000;fill:none"
+         d="M 75.590551,37.795276 75.590551,1084.724409" />
+      <path
+         id="path84"
+         style="stroke:#000000;fill:none"
+         d="M 755.905512,37.795276 755.905512,1084.724409" />
+      <path
+         id="path86"
+         style="stroke:#000000;fill:none"
+         d="M 415.748031,18.897638 415.748031,56.692913" />
+      <path
+         id="path88"
+         style="stroke:#000000;fill:none"
+         d="M 56.692913,561.259843 94.488189,561.259843" />
+      <path
+         id="path90"
+         style="stroke:#000000;fill:none"
+         d="M 774.803150,561.259843 737.007874,561.259843" />
+    </symbol>
+    <symbol
+       id="ISO_TITLEBLOCK">
+      <path
+         id="path93"
+         style="stroke:#000000;fill:none"
+         d="M -680.314961,1122.519685 0.000000,1122.519685" />
+      <path
+         id="path95"
+         style="stroke:#000000;fill:none"
+         d="M -230.551181,1084.724409 0.000000,1084.724409" />
+      <path
+         id="path97"
+         style="stroke:#000000;fill:none"
+         d="M -461.102362,1020.472441 0.000000,1020.472441" />
+      <path
+         id="path99"
+         style="stroke:#000000;fill:none"
+         d="M -680.314961,982.677165 0.000000,982.677165" />
+      <path
+         id="path101"
+         style="stroke:#000000;fill:none"
+         d="M 0.000000,1122.519685 0.000000,944.881890" />
+      <path
+         id="path103"
+         style="stroke:#000000;fill:none"
+         d="M -56.692913,1122.519685 -56.692913,1084.724409" />
+      <path
+         id="path105"
+         style="stroke:#000000;fill:none"
+         d="M -192.755906,1122.519685 -192.755906,1084.724409" />
+      <path
+         id="path107"
+         style="stroke:#000000;fill:none"
+         d="M -230.551181,1122.519685 -230.551181,944.881890" />
+      <path
+         id="path109"
+         style="stroke:#000000;fill:none"
+         d="M -461.102362,1122.519685 -461.102362,944.881890" />
+      <path
+         id="path111"
+         style="stroke:#000000;fill:none"
+         d="M -589.606299,982.677165 -589.606299,944.881890" />
+      <path
+         id="path113"
+         style="stroke:#000000;fill:none"
+         d="M 0.000000,944.881890 -680.314961,944.881890" />
+      <path
+         id="path115"
+         style="stroke:#000000;fill:none"
+         d="M -680.314961,944.881890 -680.314961,1122.519685" />
+      <text
+         id="text119"
+         y="955.464567"
+         x="-676.535433"
+         style="font-size: 6.8px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan117"
+           sodipodi:role="line">Dept.</tspan>
+      </text>
+      <text
+         id="text123"
+         y="955.464567"
+         x="-585.826772"
+         style="font-size: 6.8px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan121"
+           sodipodi:role="line">Technical reference</tspan>
+      </text>
+      <text
+         id="text127"
+         y="955.464567"
+         x="-457.322835"
+         style="font-size: 6.8px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan125"
+           sodipodi:role="line">Created by</tspan>
+      </text>
+      <text
+         id="text131"
+         y="955.464567"
+         x="-226.771654"
+         style="font-size: 6.8px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan129"
+           sodipodi:role="line">Approved by</tspan>
+      </text>
+      <text
+         id="text135"
+         y="993.259843"
+         x="-457.322835"
+         style="font-size: 6.8px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan133"
+           sodipodi:role="line">Document type</tspan>
+      </text>
+      <text
+         id="text139"
+         y="993.259843"
+         x="-226.771654"
+         style="font-size: 6.8px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan137"
+           sodipodi:role="line">Document status</tspan>
+      </text>
+      <text
+         id="text143"
+         y="1031.055118"
+         x="-457.322835"
+         style="font-size: 6.8px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan141"
+           sodipodi:role="line">Title</tspan>
+      </text>
+      <text
+         id="text147"
+         y="1031.055118"
+         x="-226.771654"
+         style="font-size: 6.8px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan145"
+           sodipodi:role="line">DWG No.</tspan>
+      </text>
+      <text
+         id="text151"
+         y="1095.307087"
+         x="-226.771654"
+         style="font-size: 6.8px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan149"
+           sodipodi:role="line">Rev.</tspan>
+      </text>
+      <text
+         id="text155"
+         y="1095.307087"
+         x="-188.976378"
+         style="font-size: 6.8px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan153"
+           sodipodi:role="line">Date of issue</tspan>
+      </text>
+      <text
+         id="text159"
+         y="1095.307087"
+         x="-52.913386"
+         style="font-size: 6.8px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan157"
+           sodipodi:role="line">Sheet</tspan>
+      </text>
+      <text
+         id="text163"
+         y="1116.850394"
+         x="-188.976378"
+         style="font-size: 13.2px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan161"
+           sodipodi:role="line">Date of issueDATE_OF_ISSUE</tspan>
+      </text>
+      <text
+         id="text167"
+         y="1117.417323"
+         x="-230.652374"
+         style="font-size: 13.2px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan165"
+           sodipodi:role="line">RevisionREV</tspan>
+      </text>
+      <text
+         id="text171"
+         y="1116.850394"
+         x="-457.322835"
+         style="font-size: 18.9px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan169"
+           sodipodi:role="line">3rd TitleTITLE_3</tspan>
+      </text>
+      <text
+         id="text175"
+         y="1014.803150"
+         x="-226.771654"
+         style="font-size: 13.2px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan173"
+           sodipodi:role="line">Document statusDOCUMENT_STATUS</tspan>
+      </text>
+      <text
+         id="text179"
+         y="1014.803150"
+         x="-457.322835"
+         style="font-size: 13.2px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan177"
+           sodipodi:role="line">Document typeDOCUMENT_TYPE</tspan>
+      </text>
+      <text
+         id="text183"
+         y="977.007874"
+         x="-166.038822"
+         style="font-size: 13.2px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan181"
+           sodipodi:role="line">Approved dateAPPROVED_DATE</tspan>
+      </text>
+      <text
+         id="text187"
+         y="977.007874"
+         x="-382.197634"
+         style="font-size: 13.2px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan185"
+           sodipodi:role="line">Created dateCREATED_DATE</tspan>
+      </text>
+      <text
+         id="text191"
+         y="1117.417323"
+         x="-59.152441"
+         style="font-size: 13.2px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan189"
+           sodipodi:role="line">SheetSHEET</tspan>
+      </text>
+      <text
+         id="text195"
+         y="1088.503937"
+         x="-457.322835"
+         style="font-size: 18.9px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan193"
+           sodipodi:role="line">2nd TitleTITLE_2</tspan>
+      </text>
+      <text
+         id="text199"
+         y="1066.766241"
+         x="-243.614529"
+         style="font-size: 18.9px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan197"
+           sodipodi:role="line">Drawing numberDRAWING_NUMBER</tspan>
+      </text>
+      <text
+         id="text203"
+         y="1060.157480"
+         x="-457.322835"
+         style="font-size: 18.9px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan201"
+           sodipodi:role="line">1st TitleTITLE_1</tspan>
+      </text>
+      <text
+         id="text207"
+         y="977.007874"
+         x="-226.771654"
+         style="font-size: 13.2px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan205"
+           sodipodi:role="line">Approved byAPPROVED_BY</tspan>
+      </text>
+      <text
+         id="text211"
+         y="977.007874"
+         x="-457.322835"
+         style="font-size: 13.2px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan209"
+           sodipodi:role="line">Created byCREATED_BY</tspan>
+      </text>
+      <text
+         id="text215"
+         y="977.007874"
+         x="-585.826772"
+         style="font-size: 13.2px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan213"
+           sodipodi:role="line">Technical referenceTECHNICAL_REFERENCE</tspan>
+      </text>
+      <text
+         id="text219"
+         y="977.007874"
+         x="-676.535433"
+         style="font-size: 13.2px; fill: #000000; font-family: Arial">
+        <tspan
+           id="tspan217"
+           sodipodi:role="line">DepartmentDEPT</tspan>
+      </text>
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="169.41888"
+     inkscape:cy="140.4768"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="114"
+     inkscape:window-maximized="1"
+     borderlayer="true">
+    <inkscape:grid
+       id="grid11"
+       units="mm"
+       type="xygrid"
+       empspacing="1"
+       spacingy="2.54"
+       spacingx="2.54" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g17"
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     inkscape:label="[fixed] BG">
+    <rect
+       id="rect15"
+       style="stroke:none;fill-opacity:1;fill:#FFFFFF"
+       height="100.0"
+       width="100.0"
+       y="0"
+       x="0" />
+  </g>
+  <g
+     id="g19"
+     inkscape:groupmode="layer"
+     inkscape:label="Edge.Cuts-disabled" />
+  <g
+     id="g21"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Cu-disabled" />
+  <g
+     id="g23"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Mask-disabled" />
+  <g
+     id="g25"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Silk-disabled" />
+  <path
+     d="m 158.76326,64.65086 c 3e-5,-0.04911 0.88057,-2.821429 1.95677,-6.160715 1.07619,-3.339285 1.95622,-6.3125 1.95562,-6.607142 -6e-4,-0.294643 -2.47018,-2.303572 -5.48795,-4.464286 l -5.48686,-3.928572 6.89527,-0.178571 c 3.79241,-0.09821 6.97077,-0.258929 7.06304,-0.357143 0.0923,-0.09821 1.1177,-3.09779 2.27874,-6.665724 l 2.11097,-6.487152 2.08134,6.308581 c 1.14474,3.469719 2.23839,6.506062 2.43033,6.747429 0.24872,0.31275 2.2902,0.466681 7.10481,0.535714 l 6.75581,0.09687 -5.33148,3.852349 c -2.93232,2.118792 -5.41533,4.070847 -5.51781,4.337901 -0.10248,0.267053 0.69739,3.249938 1.77749,6.628633 1.08009,3.378695 1.89725,6.209643 1.81589,6.290997 -0.0814,0.08135 -2.46312,-1.537601 -5.29282,-3.597677 -2.82971,-2.060076 -5.42993,-3.74933 -5.77829,-3.753898 -0.34835,-0.0046 -2.94499,1.679195 -5.7703,3.741695 -4.5637,3.331534 -5.56073,3.987912 -5.56057,3.660715 z"
+     id="path532"
+     inkscape:connector-curvature="0"
+     style="stroke-width:0.35714287"
+     transform="scale(0.26458333)" />
+  <path
+     d="m 117.10754,235.50332 -2.1914,-0.22746 2.03736,-2.85714 2.03736,-2.85715 9.61832,0.11872 c 27.09525,0.33443 55.89932,-3.58232 80.68426,-10.97137 1.96126,-0.5847 3.58186,-1.03384 3.60132,-0.99808 0.0195,0.0358 0.78532,1.13007 1.70192,2.4318 0.9166,1.30173 1.66575,2.50709 1.66478,2.67857 -0.004,0.67958 -16.85801,5.18576 -27.67681,7.39974 -10.57485,2.16406 -20.04329,3.54849 -32.32143,4.72588 -6.19491,0.59405 -34.86775,1.00155 -39.15568,0.55649 z"
+     id="path530"
+     inkscape:connector-curvature="0"
+     style="stroke-width:0.35714287"
+     transform="scale(0.26458333)" />
+  <path
+     d="m 128.79929,114.11515 c 0.26437,-0.34375 1.08517,-1.3676 1.82401,-2.27522 l 1.34333,-1.65022 4.38044,-0.25024 c 20.14027,-1.15056 38.83719,-7.27768 55.85659,-18.30464 0.71538,-0.463493 0.87342,-0.353449 2.58929,1.802915 1.00508,1.263096 1.82741,2.378648 1.82741,2.479004 0,0.338585 -6.5739,4.095821 -11.27793,6.445771 -16.13859,8.06219 -34.20923,12.3722 -51.8908,12.37641 -4.8337,0.001 -5.10499,-0.0352 -4.65234,-0.62378 z"
+     id="path526"
+     inkscape:connector-curvature="0"
+     style="stroke-width:0.35714287"
+     transform="scale(0.26458333)" />
+  <path
+     d="m 123.83928,169.385 c -3.39567,-0.1466 -6.26433,-0.35693 -6.37481,-0.46741 -0.11047,-0.11048 0.73923,-1.42198 1.88823,-2.91445 l 2.08909,-2.71359 11.96429,-0.12079 c 12.18642,-0.12303 18.17928,-0.55947 27.5,-2.00273 15.90165,-2.46227 31.7581,-6.97736 45.93377,-13.07954 0.36423,-0.15679 4.32912,4.76925 4.02169,4.99661 -0.94975,0.70242 -13.5686,5.48425 -19.24118,7.29131 -7.99493,2.54688 -21.03142,5.62772 -29.09797,6.87656 -11.97577,1.85405 -26.54763,2.65794 -38.68311,2.13403 z"
+     id="path528"
+     inkscape:connector-curvature="0"
+     style="stroke-width:0.35714287"
+     transform="scale(0.26458333)" />
+  <g
+     id="g27"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Cu" />
+  <path
+     transform="scale(0.26458333)"
+     style="stroke-width:0.35714287"
+     inkscape:connector-curvature="0"
+     id="path541"
+     d="m 128.79929,114.11515 c 0.26437,-0.34375 1.08517,-1.3676 1.82401,-2.27522 l 1.34333,-1.65022 4.38044,-0.25024 c 20.14027,-1.15056 38.83719,-7.27768 55.85659,-18.30464 0.71538,-0.463493 0.87342,-0.353449 2.58929,1.802915 1.00508,1.263096 1.82741,2.378648 1.82741,2.479004 0,0.338585 -6.5739,4.095821 -11.27793,6.445771 -16.13859,8.06219 -34.20923,12.3722 -51.8908,12.37641 -4.8337,0.001 -5.10499,-0.0352 -4.65234,-0.62378 z" />
+  <path
+     transform="scale(0.26458333)"
+     style="stroke-width:0.35714287"
+     inkscape:connector-curvature="0"
+     id="path543"
+     d="m 117.10754,235.50332 -2.1914,-0.22746 2.03736,-2.85714 2.03736,-2.85715 9.61832,0.11872 c 27.09525,0.33443 55.89932,-3.58232 80.68426,-10.97137 1.96126,-0.5847 3.58186,-1.03384 3.60132,-0.99808 0.0195,0.0358 0.78532,1.13007 1.70192,2.4318 0.9166,1.30173 1.66575,2.50709 1.66478,2.67857 -0.004,0.67958 -16.85801,5.18576 -27.67681,7.39974 -10.57485,2.16406 -20.04329,3.54849 -32.32143,4.72588 -6.19491,0.59405 -34.86775,1.00155 -39.15568,0.55649 z" />
+  <path
+     transform="scale(0.26458333)"
+     style="stroke-width:0.35714287"
+     inkscape:connector-curvature="0"
+     id="path539"
+     d="m 158.76326,64.65086 c 3e-5,-0.04911 0.88057,-2.821429 1.95677,-6.160715 1.07619,-3.339285 1.95622,-6.3125 1.95562,-6.607142 -6e-4,-0.294643 -2.47018,-2.303572 -5.48795,-4.464286 l -5.48686,-3.928572 6.89527,-0.178571 c 3.79241,-0.09821 6.97077,-0.258929 7.06304,-0.357143 0.0923,-0.09821 1.1177,-3.09779 2.27874,-6.665724 l 2.11097,-6.487152 2.08134,6.308581 c 1.14474,3.469719 2.23839,6.506062 2.43033,6.747429 0.24872,0.31275 2.2902,0.466681 7.10481,0.535714 l 6.75581,0.09687 -5.33148,3.852349 c -2.93232,2.118792 -5.41533,4.070847 -5.51781,4.337901 -0.10248,0.267053 0.69739,3.249938 1.77749,6.628633 1.08009,3.378695 1.89725,6.209643 1.81589,6.290997 -0.0814,0.08135 -2.46312,-1.537601 -5.29282,-3.597677 -2.82971,-2.060076 -5.42993,-3.74933 -5.77829,-3.753898 -0.34835,-0.0046 -2.94499,1.679195 -5.7703,3.741695 -4.5637,3.331534 -5.56073,3.987912 -5.56057,3.660715 z" />
+  <path
+     transform="scale(0.26458333)"
+     style="stroke-width:0.35714287"
+     inkscape:connector-curvature="0"
+     id="path545"
+     d="m 158.76326,64.65086 c 3e-5,-0.04911 0.88057,-2.821429 1.95677,-6.160715 1.07619,-3.339285 1.95622,-6.3125 1.95562,-6.607142 -6e-4,-0.294643 -2.47018,-2.303572 -5.48795,-4.464286 l -5.48686,-3.928572 6.89527,-0.178571 c 3.79241,-0.09821 6.97077,-0.258929 7.06304,-0.357143 0.0923,-0.09821 1.1177,-3.09779 2.27874,-6.665724 l 2.11097,-6.487152 2.08134,6.308581 c 1.14474,3.469719 2.23839,6.506062 2.43033,6.747429 0.24872,0.31275 2.2902,0.466681 7.10481,0.535714 l 6.75581,0.09687 -5.33148,3.852349 c -2.93232,2.118792 -5.41533,4.070847 -5.51781,4.337901 -0.10248,0.267053 0.69739,3.249938 1.77749,6.628633 1.08009,3.378695 1.89725,6.209643 1.81589,6.290997 -0.0814,0.08135 -2.46312,-1.537601 -5.29282,-3.597677 -2.82971,-2.060076 -5.42993,-3.74933 -5.77829,-3.753898 -0.34835,-0.0046 -2.94499,1.679195 -5.7703,3.741695 -4.5637,3.331534 -5.56073,3.987912 -5.56057,3.660715 z" />
+  <g
+     id="g29"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Mask" />
+  <g
+     id="g31"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Silk-disabled" />
+  <g
+     id="g33"
+     inkscape:groupmode="layer"
+     inkscape:label="Drill-disabled" />
+</svg>
