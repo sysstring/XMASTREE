@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:XMASTREE-cache
-EELAYER 30 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -399,7 +399,7 @@ L Connector:TestPoint TP2
 U 1 1 5D966AB7
 P 4250 3200
 F 0 "TP2" H 4308 3318 50  0000 L CNN
-F 1 "TestPoint" H 4308 3227 50  0000 L CNN
+F 1 "Back side decorations" H 3900 3400 50  0000 L CNN
 F 2 "XMAS:Decorations" H 4450 3200 50  0001 C CNN
 F 3 "~" H 4450 3200 50  0001 C CNN
 	1    4250 3200
@@ -413,7 +413,7 @@ L Connector:TestPoint TP1
 U 1 1 5D966FC0
 P 1300 900
 F 0 "TP1" H 1358 1018 50  0000 L CNN
-F 1 "TestPoint" H 1358 927 50  0000 L CNN
+F 1 "Front side decoratoins" H 1250 1150 50  0000 L CNN
 F 2 "XMAS:Decorations" H 1500 900 50  0001 C CNN
 F 3 "~" H 1500 900 50  0001 C CNN
 	1    1300 900 
@@ -422,4 +422,8 @@ $EndComp
 Connection ~ 1300 900 
 Wire Wire Line
 	1300 900  1550 900 
+Text Label 2050 900  0    50   ~ 0
+3V
+Text Label 1000 1850 1    50   ~ 0
+BTN_COM
 $EndSCHEMATC

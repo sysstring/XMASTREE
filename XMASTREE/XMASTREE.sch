@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:XMASTREE-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -76,8 +76,6 @@ F 3 "" H 1000 800 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1000 900  1000 800 
-Wire Wire Line
-	1000 900  1300 900 
 $Comp
 L Device:R R9
 U 1 1 5D8F6668
@@ -278,8 +276,6 @@ F 3 "~" H 4600 1050 50  0001 C CNN
 	1    4600 1050
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	5000 3200 4250 3200
 Connection ~ 2600 3200
 Wire Wire Line
 	3100 2000 3500 2000
@@ -397,33 +393,37 @@ Connection ~ 4250 2000
 $Comp
 L Connector:TestPoint TP2
 U 1 1 5D966AB7
-P 4250 3200
-F 0 "TP2" H 4308 3318 50  0000 L CNN
-F 1 "Back side decorations" H 3900 3400 50  0000 L CNN
-F 2 "XMAS:Decorations" H 4450 3200 50  0001 C CNN
-F 3 "~" H 4450 3200 50  0001 C CNN
-	1    4250 3200
+P 4100 3000
+F 0 "TP2" H 4158 3118 50  0000 L CNN
+F 1 "Back side decorations" H 3750 3200 50  0000 L CNN
+F 2 "XMAS:Decorations" H 4300 3000 50  0001 C CNN
+F 3 "~" H 4300 3000 50  0001 C CNN
+	1    4100 3000
 	1    0    0    -1  
 $EndComp
-Connection ~ 4250 3200
-Wire Wire Line
-	4250 3200 2600 3200
 $Comp
 L Connector:TestPoint TP1
 U 1 1 5D966FC0
-P 1300 900
-F 0 "TP1" H 1358 1018 50  0000 L CNN
-F 1 "Front side decoratoins" H 1250 1150 50  0000 L CNN
-F 2 "XMAS:Decorations" H 1500 900 50  0001 C CNN
-F 3 "~" H 1500 900 50  0001 C CNN
-	1    1300 900 
+P 2850 3050
+F 0 "TP1" H 2908 3168 50  0000 L CNN
+F 1 "Front side decoratoins" H 2800 3300 50  0000 L CNN
+F 2 "XMAS:Decorations" H 3050 3050 50  0001 C CNN
+F 3 "~" H 3050 3050 50  0001 C CNN
+	1    2850 3050
 	1    0    0    -1  
 $EndComp
-Connection ~ 1300 900 
-Wire Wire Line
-	1300 900  1550 900 
 Text Label 2050 900  0    50   ~ 0
 3V
 Text Label 1000 1850 1    50   ~ 0
 BTN_COM
+Text Label 3550 2000 0    50   ~ 0
+OUTPUT
+Text Label 4600 2000 0    50   ~ 0
+INVERTED
+NoConn ~ 4100 3000
+Wire Wire Line
+	1000 900  1550 900 
+Wire Wire Line
+	2600 3200 5000 3200
+NoConn ~ 2850 3050
 $EndSCHEMATC
